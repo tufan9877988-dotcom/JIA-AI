@@ -1,0 +1,11 @@
+.buildozer/
+venv/
+venv_*/
+__pycache__/
+*.pyc
+*.pyo
+bin/*.apk
+dist/
+build/
+core/brain_backup*.py
+core/brain_gemini_old_backup.py
